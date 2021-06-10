@@ -67,7 +67,7 @@ menu:
 
 
 params:
-  since: 2017
+  since: 2019
   dateFormatToUse: "2006-01-02"
   enablePostCopyright: true
   copyright_link: http://creativecommons.org/licenses/by/4.0/deed.zh
@@ -100,17 +100,17 @@ params:
   # profile
   profile:
     enabled: true # Whether to show profile bar
-    avatar: avatar.png
+    avatar: avatar.jpg
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: xiaoheiAh
+    author: Tongzhixin
     author_title: author title
     author_description: Good Good Study, Day Day Up~
     location: Shanghai, China
-    follow: https://github.com/xiaoheiAh
+    follow: https://github.com/Tongzhixin
     # Social Links
     social:
       links:
-        github: https://github.com/xiaoheiAh
+        github: https://github.com/Tongzhixin
         # weibo: http://weibo.com/{yourid}
         # twitter: https://twitter.com/
         # facebook: /
@@ -122,10 +122,10 @@ params:
       enabled: true
       width: 40
       height: 40
-      url: favicon.ico
+      url: t.ico
     title: Hugo # 页面title
-    favicon: favicon.ico
-    board: <p>enjoy~</p> # 公告牌
+    favicon: t.ico
+    board: <p>公告说明/p> # 公告牌
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
@@ -170,7 +170,7 @@ params:
   # PV
   pv:
     busuanzi:
-      enable: false # 不蒜子统计
+      enable: true # 不蒜子统计
     leancloud:
       enable: false # leancloud统计
       app_id: # leancloud <AppID>
