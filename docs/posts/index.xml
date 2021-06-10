@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pure theme for Hugo</title>
+    <link>https://tongzhixin.live/posts/</link>
+    <description>Recent content in Posts on Pure theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>CC BY 4.0 CN</copyright>
+    <lastBuildDate>Thu, 10 Jun 2021 23:01:51 +0800</lastBuildDate>
+    
+        <atom:link href="https://tongzhixin.live/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helloworld</title>
+      <link>https://tongzhixin.live/2021/06/helloworld/</link>
+      <pubDate>Thu, 10 Jun 2021 23:01:51 +0800</pubDate>
+      
+      <guid>https://tongzhixin.live/2021/06/helloworld/</guid>
+      <description>Since Hugo 0.48, Hugo uses the Go Modules support built into Go 1.11 to build. The easiest is to clone Hugo in a directory outside of GOPATH, as in the following example:
+mkdir $HOME/src cd $HOME/src git clone https://github.com/gohugoio/hugo.git cd hugo go install  If you are a Windows user, substitute the $HOME environment variable above with %USERPROFILE%.
+If you want to compile with Sass/SCSS support use --tags extended and make sure CGO_ENABLED=1 is set in your go environment.</description>
+    </item>
+    
+  </channel>
+</rss>
