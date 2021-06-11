@@ -103,7 +103,7 @@ params:
     avatar: avatar.jpg
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: Tongzhixin
-    author_title: author title
+    author_title: welcome
     author_description: Good Good Study, Day Day Up~
     location: Shanghai, China
     follow: https://github.com/Tongzhixin
